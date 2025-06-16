@@ -23,7 +23,7 @@ This project analyzes the differences between 2-door and 4-door cars using an au
 - Microsoft Excel
 - Pivot Tables
 - Column Engineering (manual feature creation)
-- Charts (Bar, Column, Pie for visual comparison)
+- Charts (Bar, and Column chart for visual comparison)
 # Sheet Breakdown (Excel File)
 # Sheet Name      | Purpose
 ||----------------|------------------------------------------------------|
